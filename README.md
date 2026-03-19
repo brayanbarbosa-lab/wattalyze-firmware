@@ -189,6 +189,6 @@ MIT License — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <div align="center">
 
-Feito com ⚡ pela equipe **WATTALYZE** — ETEC 2024
+Feito com ⚡ pela equipe **WATTALYZE** — ETEC 2025
 
 </div>
